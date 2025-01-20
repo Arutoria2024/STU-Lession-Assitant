@@ -30,7 +30,7 @@
 
 6. **WebUI 工具：** 带开发。
 
-**查看我们的介绍视频（下次抢课系统再开的时候录制） [demo video](https://www.bilibili.com/video/BV1GJ411x7h7)**
+**查看我们的介绍视频 [demo video](https://www.bilibili.com/video/BV1GJ411x7h7)**
 
 **用户手册: [简体中文](https://www.bilibili.com/video/BV1GJ411x7h7) | [English](https://www.bilibili.com/video/BV1GJ411x7h7)**
 
