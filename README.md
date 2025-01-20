@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>GPT-SoVITS-WebUI</h1>
+<h1>STU-Lession-Assitant</h1>
 强大的少样本语音转换与语音合成Web用户界面。<br><br>
 
 [![madewithlove](https://img.shields.io/badge/made_with-%E2%9D%A4-red?style=for-the-badge&labelColor=orange)](https://github.com/RVC-Boss/GPT-SoVITS)
