@@ -124,8 +124,4 @@ pip install -r requirements.txt
 ### WebUI 工具（没写，放个视频吧👇）
 - [点击这里有好东西](https://www.bilibili.com/video/BV1GJ411x7h7)
 
-## 感谢所有贡献者的努力
-
-<a href="https://github.com/Arutoria2024/STU-Lession-Assistant/graphs/contributors" target="_blank">
-  <img src="https://contrib.rocks/image?repo=Arutoria2024/STU-Lession-Assistant" />
-</a>
+## 又熬夜了，好困
