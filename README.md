@@ -78,7 +78,7 @@ script_dir = os.path.dirname(os.path.abspath(__file__))
 ```
 
 ##### 安装依赖（上述exe程序版不需要，python脚本版在脚本所在目录出右键）
-点击 ！[终端](image/example.png)
+点击 ![终端](image/example.png)
 后依次输入并回车（每输入一行都要回车）👇
 ```bash
 pip install os
