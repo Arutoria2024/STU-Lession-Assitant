@@ -1,11 +1,11 @@
 <div align="center">
 
 <h1>STU-Lession-Assitant</h1>
-强大的少样本语音转换与语音合成Web用户界面。<br><br>
+一种简单的基于playwright爬虫框架的抢课脚本，使用python语言编写而成。<br><br>
 
-[![madewithlove](https://img.shields.io/badge/made_with-%E2%9D%A4-red?style=for-the-badge&labelColor=orange)](https://github.com/RVC-Boss/GPT-SoVITS)
+[![madewithlove](https://img.shields.io/badge/made_with-%E2%9D%A4-red?style=for-the-badge&labelColor=orange)](https://github.com/Arutoria2024/STU-Lession-Assitant)
 
-<img src="https://counter.seku.su/cmoe?name=gptsovits&theme=r34" /><br>
+<img src="https://moe-counter.vercel.app/get/@Arutoria2024/STU-Lession-Assitant?&theme=rule34" /><br>
 
 [![Open In Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com/github/RVC-Boss/GPT-SoVITS/blob/main/colab_webui.ipynb)
 [![License](https://img.shields.io/badge/LICENSE-MIT-green.svg?style=for-the-badge)](https://github.com/RVC-Boss/GPT-SoVITS/blob/main/LICENSE)
