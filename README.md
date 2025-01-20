@@ -5,7 +5,7 @@
 
 [![madewithlove](https://img.shields.io/badge/made_with-%E2%9D%A4-red?style=for-the-badge&labelColor=orange)](https://github.com/Arutoria2024/STU-Lession-Assitant)
 
-<img src="https://moe-counter.vercel.app/get/@Arutoria2024/STU-Lession-Assitant?&theme=rule34" /><br>
+<img src="https://count.getloli.com/get/@:Arutoria2024.github.readme?&theme=rule34" /><br>
 
 [![Open In Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com/github/RVC-Boss/GPT-SoVITS/blob/main/colab_webui.ipynb)
 [![License](https://img.shields.io/badge/LICENSE-MIT-green.svg?style=for-the-badge)](https://github.com/RVC-Boss/GPT-SoVITS/blob/main/LICENSE)
